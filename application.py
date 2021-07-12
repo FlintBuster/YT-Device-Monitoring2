@@ -1,5 +1,7 @@
 print("Some string")
 print("Other string")
-ptint("new-api1")
+print("new-api1")
 print("new-api2")
+print("bugfix")
 
+iit branch -a
